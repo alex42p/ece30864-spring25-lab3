@@ -21,3 +21,9 @@ Meeting Types:
 (3) Spring Retrospective Meeting
     - Discuss completed work and move incomplete work to backlog
     - Close the sprint
+
+Question 4:
+Epic: Large body of work that can be broken down into smaller stories
+Story: Software system requirement expressed briefly
+Bug: Smallest unit of work tracked through a workflow - usually some error in the code
+Task: A piece of work to complete during a sprint
