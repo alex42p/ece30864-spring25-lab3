@@ -1,0 +1,7 @@
+Question 1:
+Pros of Agile development: 
+(1) Smaller cross functional teams 
+(2) Constant collaboration with customers
+Cons of Agile development: 
+(1) Sprints can add stress to finish development within a shorter time frame 
+(2) Scaling projects can be challenging
