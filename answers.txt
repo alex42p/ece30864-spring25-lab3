@@ -9,3 +9,15 @@ Cons of Agile development:
 Question 2:
 Scrum Master: In charge of all scrum related tasks, including sprints, meetings, and standups
 Project Owner: Sets direction for the team, and handles stakeholder and release management
+
+Question 3:
+Meeting Types:
+(1) Sprint Planning Meeting
+    - Determine what to complete in the upcoming sprint
+    - Determine story points and assign stories/issues to teammembers 
+(2) Daily Scrum/Standup Meeting
+    - Brief update on the current status of the sprint
+    - Discussion on plans for the day regarding the sprint
+(3) Spring Retrospective Meeting
+    - Discuss completed work and move incomplete work to backlog
+    - Close the sprint
