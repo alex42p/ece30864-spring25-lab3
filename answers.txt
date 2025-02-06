@@ -5,3 +5,7 @@ Pros of Agile development:
 Cons of Agile development: 
 (1) Sprints can add stress to finish development within a shorter time frame 
 (2) Scaling projects can be challenging
+
+Question 2:
+Scrum Master: In charge of all scrum related tasks, including sprints, meetings, and standups
+Project Owner: Sets direction for the team, and handles stakeholder and release management
